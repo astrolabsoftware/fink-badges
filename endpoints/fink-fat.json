@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "label": "fink-fat",
+  "message": "asteroid tracker",
+  "labelColor": "#F5622E",
+  "color": "#3C8DFF",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><ellipse cx=\"12\" cy=\"12\" rx=\"11\" ry=\"6\" transform=\"rotate(-20 12 12)\" fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"1.6\"/><circle cx=\"12\" cy=\"12\" r=\"2.6\" fill=\"#FFFFFF\"/><circle cx=\"20.3\" cy=\"7.6\" r=\"2.4\" fill=\"#F5622E\" stroke=\"#FFFFFF\" stroke-width=\"1\"/></svg>",
+  "style": "flat",
+  "cacheSeconds": 86400
+}

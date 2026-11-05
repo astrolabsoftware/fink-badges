@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "label": "fink-filters",
+  "message": "alert filters",
+  "labelColor": "#D5D5D3",
+  "color": "#15284F",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M2 3h20l-8 9v7l-4 3v-10z\" fill=\"#15284F\"/><circle cx=\"12\" cy=\"7\" r=\"2\" fill=\"#F5622E\"/></svg>",
+  "style": "flat",
+  "cacheSeconds": 86400
+}

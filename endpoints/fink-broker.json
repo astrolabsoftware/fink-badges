@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "label": "fink-broker",
+  "message": "alert processing",
+  "labelColor": "#F5622E",
+  "color": "#15284F",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><circle cx=\"7\" cy=\"12\" r=\"3\" fill=\"#FFFFFF\"/><path d=\"M1 12h3M10 12h4M10 10.5 L14 5h8M10 13.5 L14 19h8M14 12h8\" stroke=\"#FFFFFF\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\"/><circle cx=\"21\" cy=\"5\" r=\"1.8\" fill=\"#15284F\"/><circle cx=\"21\" cy=\"12\" r=\"1.8\" fill=\"#15284F\"/><circle cx=\"21\" cy=\"19\" r=\"1.8\" fill=\"#15284F\"/></svg>",
+  "style": "flat",
+  "cacheSeconds": 86400
+}
